@@ -1,4 +1,4 @@
-# LS Empowerment – Business Website
+# LS Empowerment – Business Website.
 
 Production website built for **LS Empowerment**, a coaching and empowerment company offering individual coaching, group sessions and workshops.
 
