@@ -9,7 +9,7 @@ This was real client work, focused on turning business goals into a clear, trust
 ## Overview.
 
 - **Client:** LS Empowerment   
-- **Type:** Business / marketing website  
+- **Type:** Business / marketing website   
 - **Status:** Delivered and in use  
 
 ---
