@@ -16,7 +16,7 @@ This was real client work, focused on turning business goals into a clear, trust
 
 ## My Role
 
-**Frontend / Web Developer**
+**Frontend / Web Developer** 
 
 I worked closely with the client to:
 - Turn their ideas and content into a structured design
