@@ -12,7 +12,7 @@ This was real client work, focused on turning business goals into a clear, trust
 - **Type:** Business / marketing website   
 - **Status:** Delivered and in use  
 
----
+--- 
 
 ## My Role
 
