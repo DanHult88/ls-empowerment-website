@@ -33,7 +33,7 @@ I worked closely with the client to:
 - CSS  
 - Vercel  
 
----
+--- 
 
 ## Key Challenges
 
