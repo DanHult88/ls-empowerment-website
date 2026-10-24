@@ -39,7 +39,7 @@ I worked closely with the client to:
 
 - Structuring a lot of content without overwhelming users  
 - Matching a calm, trustworthy visual style with clear calls to action  
-- Making sure the site worked well on all screen sizes  
+- Making sure the site worked well on all screen sizes   
 
 ---
 
