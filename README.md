@@ -30,7 +30,7 @@ I worked closely with the client to:
 
 - React  
 - JavaScript (ES6+)  
-- CSS  
+- CSS   
 - Vercel  
 
 --- 
